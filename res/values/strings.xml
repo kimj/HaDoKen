@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CJKDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="template_user_agent" translatable="false">"%1$s/%2$s (Linux; Android)"</string>
+    <string name="template_wotd_title">"Wiktionary:Word of the day/%1$s %2$s"</string>
+    <string name="template_define_url" translatable="false">"http://en.wiktionary.org/wiki/%s"</string>
+    <string name="widget_name">Wiktionary simple</string>
+    <string name="widget_loading">Loading word\nof day\u2026</string>
+    <string name="widget_error">No word of\nday found</string>
+
+    <string-array name="month_names">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
